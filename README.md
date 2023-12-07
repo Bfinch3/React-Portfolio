@@ -1,8 +1,47 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A portfolio created with React
+
+https://billyfinch-portfolio.netlify.app/about
+
+![Capture](https://github.com/Bfinch3/React-Portfolio/assets/144380049/8aad022d-e92d-4f6a-a8ab-b17cca1e86f4)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+[License](https://opensource.org/licenses/MIT)
+
+## Installation
+
+npm i
+
+## Usage
+
+
+
+## Contribute
+
+
+
+## Tests
+
+
+
+## Questions
+
+For any questions, please contact me via:
+
+- Email: 
+- GitHub: [bfinch2](https://github.com/bfinch2)
+
+## License
+
+This project is licensed under the [MIT License]([License](https://opensource.org/licenses/MIT)).
